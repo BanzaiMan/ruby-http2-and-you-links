@@ -14,6 +14,7 @@
 
 * [Check h2 support among browsers](http://caniuse.com/#feat=http2)
 * Chrome h2 inspection page: chrome://net-internals/#http2
+* [list of h2 implemenations](https://github.com/http2/http2-spec/wiki/Implementations)
 
 (See also `curl` configuration flags, found in this directory.)
 

@@ -1,0 +1,8 @@
+# on the Mac
+$ brew install nghttp2
+$ brew install openssl
+$ ./configure --with-nghttp2=/usr/local/include/nghttp2/ \
+  --prefix=/usr/local \
+  --with-ssl=/usr/local/Cellar/openssl/1.0.2j --enable-ares \
+  --with-ca-bundle=/usr/local/etc/openssl/cert.pem --with-gssapi
+

@@ -1,0 +1,4 @@
+# On Ubuntu
+$ sudo apt-get install nghttp2
+$ ./configure --with-nghttp2 --prefix=/usr/local
+

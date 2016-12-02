@@ -18,6 +18,13 @@
 
 (See also `curl` configuration flags, found in this directory.)
 
+# HTTP/2 Servers
+
+https://www.nginx.com
+https://h2o.examp1e.net/
+http://httpd.apache.org/
+https://tomcat.apache.org/
+
 # Performance advice
 
 * [High Performance Browser Networking](https://hpbn.co/) by Ilya

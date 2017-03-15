@@ -20,10 +20,10 @@
 
 # HTTP/2 Servers
 
-https://www.nginx.com
-https://h2o.examp1e.net/
-http://httpd.apache.org/
-https://tomcat.apache.org/
+* https://www.nginx.com
+* https://h2o.examp1e.net/
+* http://httpd.apache.org/
+* https://tomcat.apache.org/
 
 # Performance advice
 
